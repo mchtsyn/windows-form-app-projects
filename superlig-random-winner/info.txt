@@ -1,0 +1,4 @@
+*some images and sounds are corrupted
+
+id: 1
+password: 1
